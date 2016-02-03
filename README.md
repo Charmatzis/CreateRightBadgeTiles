@@ -1,2 +1,6 @@
 # CreateRightBadgeTiles
 Create Right Badge Tiles icons for Universal Windows 10 Mobile apps
+
+This is a Console app solution for the problem of The image {something} has an ABGR value "{something}" at position ({somewhere},{somewhere}) that is not valid. The pixel must be white (##FFFFFF) or transparent (00######).
+ 
+Please, enjoy it!!!!!
